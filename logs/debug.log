@@ -1,0 +1,13 @@
+[289月2026 09:00:21.059] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file SimpleCommentedConfig:{} is not correct. Correcting
+[289月2026 09:00:21.064] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite was corrected from null to its default, SimpleCommentedConfig:{}. 
+[289月2026 09:00:21.064] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite.dbFolder was corrected from null to its default, sqlite. 
+[289月2026 09:00:21.065] [main/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: The comment on key sqlite.dbFolder does not match the spec. This may create a backup.
+[289月2026 09:00:21.065] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite.busyTimeoutMs was corrected from null to its default, 5000. 
+[289月2026 09:00:21.066] [main/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: The comment on key sqlite.busyTimeoutMs does not match the spec. This may create a backup.
+[289月2026 09:00:21.066] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite.journalMode was corrected from null to its default, WAL. 
+[289月2026 09:00:21.066] [main/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: The comment on key sqlite.journalMode does not match the spec. This may create a backup.
+[289月2026 09:00:21.066] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite.foreignKeys was corrected from null to its default, true. 
+[289月2026 09:00:21.067] [main/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: The comment on key sqlite.foreignKeys does not match the spec. This may create a backup.
+[289月2026 09:00:21.067] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key sqlite.closeOnServerStop was corrected from null to its default, true. 
+[289月2026 09:00:21.067] [main/DEBUG] [net.minecraftforge.common.ForgeConfigSpec/CORE]: The comment on key sqlite.closeOnServerStop does not match the spec. This may create a backup.
+[289月2026 09:00:21.164] [main/INFO] [com.sqlitejs.SQLiteJS/]: [SQLiteJS] Opened database 'test' at C:\Users\Uniye\AppData\Local\Temp\sqlitejs-smoke5227073746541334769\test.db
